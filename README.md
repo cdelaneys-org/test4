@@ -1,2 +1,2 @@
 # test4
-test sync
+test repository
